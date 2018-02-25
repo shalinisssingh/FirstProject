@@ -1,0 +1,6 @@
+projectKey=com.cgi.project:First
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.cgi.project:First
+ceTaskId=AWHM5PYG_-Gp5ArXogt1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWHM5PYG_-Gp5ArXogt1

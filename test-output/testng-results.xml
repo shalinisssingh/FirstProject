@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18462" started-at="2017-10-10T10:37:24Z" finished-at="2017-10-10T10:37:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18462" started-at="2017-10-10T10:37:24Z" finished-at="2017-10-10T10:37:42Z">
+      <class name="Data2.DataTestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Data2.DataTestNG@4f933fd1]" name="beforeTest" is-config="true" duration-ms="18283" started-at="2017-10-10T16:07:24Z" finished-at="2017-10-10T16:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Data2.DataTestNG@4f933fd1]" name="f" duration-ms="49" started-at="2017-10-10T16:07:42Z" finished-at="2017-10-10T16:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Data2.DataTestNG@4f933fd1]" name="afterTest" is-config="true" duration-ms="109" started-at="2017-10-10T16:07:42Z" finished-at="2017-10-10T16:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Data2.DataTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
